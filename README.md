@@ -15,5 +15,8 @@
 ## phase_noise.py
 - 伪距噪声计算（历元差分无几何组合）、分布图绘制
 
-## phase_noise.py
+## pseudo_noise.py
+- 伪距噪声计算（历元差分无几何组合）、分布图绘制
+
+## pseudo_noise.py
 - 伪距噪声计算（历元差分无几何组合）、分布图绘制
